@@ -1,0 +1,7 @@
+{
+  "target_ip": "4.2.2.2",
+  "interval": 1,
+  "timeout": 1000,
+  "packet_size": 32,
+  "log_folder": "D:/PingMonitor/Logs"
+}

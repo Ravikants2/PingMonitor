@@ -1,0 +1,6 @@
+Timestamp,Status,ResponseTime,Reply
+2026-06-27 13:33:40,SUCCESS,283ms,Reply from 4.2.2.2: bytes=32 time=283ms TTL=51
+2026-06-27 13:33:41,SUCCESS,250ms,Reply from 4.2.2.2: bytes=32 time=250ms TTL=51
+2026-06-27 13:33:42,SUCCESS,281ms,Reply from 4.2.2.2: bytes=32 time=281ms TTL=51
+2026-06-27 13:33:44,SUCCESS,326ms,Reply from 4.2.2.2: bytes=32 time=326ms TTL=51
+2026-06-27 13:33:45,SUCCESS,354ms,Reply from 4.2.2.2: bytes=32 time=354ms TTL=51
